@@ -1,0 +1,107 @@
+[
+  {
+    "title": "The Scientific 7-Minute Workout",
+    "exercises": [
+      {
+        "title": "Jumping jacks",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Wall sit",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Push-up",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Abdominal crunch",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Step-up onto chair",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Squat",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Triceps dip on chair",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Plank",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "High knees running in place",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Lunge",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Push-up and rotation",
+        "prelude": 10,
+        "duration": 30
+      },
+      {
+        "title": "Side plank",
+        "prelude": 10,
+        "duration": 30
+      }
+    ]
+  },
+  {
+    "title": "Core, Upper-Body, and Glutes",
+    "exercises": [
+      {
+        "title": "Forearm Plank",
+        "prelude": 5,
+        "duration": 180
+      },
+      {
+        "title": "Side Plank (left)",
+        "prelude": 10,
+        "duration": 90
+      },
+      {
+        "title": "Side Plank (right)",
+        "prelude": 10,
+        "duration": 90
+      },
+      {
+        "title": "Forearm Plank",
+        "prelude": 10,
+        "duration": 180
+      },
+      {
+        "title": "Push-Ups",
+        "prelude": 20,
+        "duration": 45
+      },
+      {
+        "title": "Push-Ups",
+        "prelude": 20,
+        "duration": 45
+      },
+      {
+        "title": "Glute Bridge",
+        "prelude": 15,
+        "duration": 180
+      }
+    ]
+  }
+]
