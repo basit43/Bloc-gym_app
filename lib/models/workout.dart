@@ -20,6 +20,11 @@ class Workout extends Equatable {
     return Workout(title: json['title'] as String?, exercises: exercises);
   }
   Map<String, dynamic> toJson() => {'title': title, 'exercises': exercises};
+  int getTotal() {
+    int time =
+        exercises.fold(0, (prev, ex) => prev + ex.duration! + ex.prelude!);
+    return time;
+  }
 
   @override
   // TODO: implement props
